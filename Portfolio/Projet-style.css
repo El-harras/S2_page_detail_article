@@ -1,0 +1,190 @@
+body {
+    padding: 10px 40px 10px 40px;
+}
+
+header {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.logo-page {
+    display: inline-block;
+    width: 49%;
+}
+
+.logo-page img {
+    display: inline-block;
+    width: 44px;
+    height: 44px;
+    border: 2px solid white;
+}
+
+.logo-page p {
+    display: inline-block;
+    margin: 0;
+}
+
+.resume_information {
+    display: inline-block;
+}
+
+.resume_information img {
+    width: 60%;
+    height: 70%;
+    padding-left: 40%;
+}
+
+.resume span {
+    color: #00A99D;
+}
+
+.resume a {
+    text-decoration: none;
+}
+
+#defin {
+    font-size: 14px;
+    color: rgb(144, 139, 139);
+}
+
+#Organisateur {
+    font-size: 18px;
+}
+
+.informations {
+    display: inline-block;
+    justify-content: space-between;
+
+}
+
+.info p {
+    margin-left: 10px;
+    font-size: 11px;
+}
+
+
+.info {
+    display: inline-block;
+    align-items: center;
+}
+
+
+.button {
+    display: block;
+    border-radius: 80px;
+    color: white;
+    background-color: #00a99d;
+    max-width: 40%;
+    padding: 10px 0 10px 0;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.Presentation_proget {
+    display: inline-block;
+}
+
+.Presentation_proget img {
+    padding-left: 60%;
+}
+
+
+.Presentation p {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Presentation {
+    padding-right: 15%;
+}
+
+.informations_Objectifs {
+    display: inline-block;
+
+
+}
+
+.text {
+    font-size: 12px;
+}
+
+.Objectifs {
+    margin-top: 15px;
+    padding: 10px 0 20px 20px;
+    background-color: #daf5f4;
+    border-radius: 20px;
+    max-width: 50%;
+}
+
+.class-Technologies {
+    max-width: 40%;
+    border-radius: 20px;
+}
+
+.HTML {
+    background-color: rgb(210, 249, 204);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    max-width: 30%;
+}
+
+.CSS {
+    background-color: rgb(210, 249, 204);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    max-width: 30%;
+}
+
+.fonctionnalite {
+    border: 1px;
+    border-style: ridge;
+    border-radius: 20px;
+    padding-right: 20px;
+}
+
+.fonct {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.princip {
+    display: inline-block;
+    align-items: center;
+    padding-left: 20px;
+
+}
+
+.features-grid {
+    padding-bottom: 20px;
+}
+
+
+.synthese {
+    margin-top: 60px;
+    width: 50%;
+    padding-left: 60%;
+}
+
+.synthese p {
+    font-style: italic;
+    color: #4b6584;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+    text-align: left;
+}
+
+
+section {
+    margin-top: 60px;
+    padding-bottom: 8%;
+}
+
+.Me_contact a{
+    text-decoration: none;
+    color: black;
+}
